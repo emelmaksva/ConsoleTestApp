@@ -2,6 +2,7 @@
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Hellow Word!");
+        Console.WriteLine("Hellow Word 1!");
+        Console.WriteLine("Hellow Word 2!");
     }
 }
